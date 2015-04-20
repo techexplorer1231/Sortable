@@ -1,0 +1,11 @@
+{
+  "name": "sortable",
+  "version": "0.0.1",
+  "description": "sortable library",
+  "main": "Sortable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
